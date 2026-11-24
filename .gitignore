@@ -1,0 +1,20 @@
+# Maven build output
+target/
+
+# Generated automation reports
+reports/
+
+# Failure screenshots
+screenshots/
+test-output/
+
+# IDE configuration
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Environment variables
+.env
